@@ -1,0 +1,3 @@
+C:/Users/alest/CLionProjects/ppd/hw2_cpp/cmake-build-release/CMakeFiles/hw2_cpp.dir
+C:/Users/alest/CLionProjects/ppd/hw2_cpp/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/alest/CLionProjects/ppd/hw2_cpp/cmake-build-release/CMakeFiles/rebuild_cache.dir

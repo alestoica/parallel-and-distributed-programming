@@ -1,0 +1,9 @@
+# ninja log v5
+936	1171	7508118038833986	hw1_cpp.exe	6dba09ccfdcc649f
+7	935	7508118036526922	CMakeFiles/hw1_cpp.dir/main.cpp.obj	a31dbc64cf862cb0
+3	647	7507879098987051	CMakeFiles/hw1_cpp.dir/dynamic.cpp.obj	2de35f5a0c02fab9
+7	66	7507878451482007	CMakeFiles/hw1_cpp.dir/static.cpp.obj	f3419164f45a94a7
+0	145	7512940863881881	build.ninja	ae19be495c432db4
+10	121	7508116989320276	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	1f098bd7354b1819
+19	1647	7508117004324376	CMakeFiles/hw1_cpp.dir/dynamic/dynamic.cpp.obj	296e87abeb6ad9c0
+3	44	7507891599249048	CMakeFiles/hw1_cpp.dir/dynamic/dynamic_with_vector/dynamic_with_vector.cpp.obj	20c45f9cd35815af

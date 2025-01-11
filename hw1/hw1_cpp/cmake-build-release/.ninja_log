@@ -1,0 +1,26 @@
+# ninja log v5
+7	1674	7512940559298661	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	bbb907f2245b98f5
+20	146	7512891299686568	CMakeFiles/hw1_cpp.dir/dynamic/dynamic_with_vector/dynamic_with_vector.cpp.obj	f2950e3ed17b5262
+16	868	7512940551231573	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+1675	1867	7512940561164610	hw1_cpp.exe	3476426d78f08e17
+26	1837	7512933345010209	CMakeFiles/hw1_cpp.dir/dynamic/dynamic.cpp.obj	ad7e79a8e7c7c59
+6	208	7512940884283064	hw1_cpp.exe	75cf701518545ad0
+8	1558	7512943102981271	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	bbb907f2245b98f5
+1559	1748	7512943104800538	hw1_cpp.exe	75cf701518545ad0
+18	883	7512944006718713	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+9	1732	7512944015220288	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	bbb907f2245b98f5
+1732	1935	7512944017181015	hw1_cpp.exe	75cf701518545ad0
+7	785	7512944952843825	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+787	1015	7512944954985486	hw1_cpp.exe	75cf701518545ad0
+28	909	7513011061575093	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+10	2007	7513011072558584	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	bbb907f2245b98f5
+19	2096	7513011073451903	CMakeFiles/hw1_cpp.dir/dynamic/dynamic.cpp.obj	ad7e79a8e7c7c59
+2096	2339	7513011075826988	hw1_cpp.exe	75cf701518545ad0
+8	821	7513011424013075	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+821	1023	7513011425950797	hw1_cpp.exe	75cf701518545ad0
+6	716	7513011994482171	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+717	913	7513011996381415	hw1_cpp.exe	75cf701518545ad0
+10	799	7513012164063604	CMakeFiles/hw1_cpp.dir/main.cpp.obj	ff83a7a638db555a
+800	992	7513012165934562	hw1_cpp.exe	75cf701518545ad0
+6	1736	7513014251079520	CMakeFiles/hw1_cpp.dir/static/static.cpp.obj	bbb907f2245b98f5
+1737	1945	7513014253084114	hw1_cpp.exe	75cf701518545ad0

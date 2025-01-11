@@ -1,0 +1,4 @@
+rootProject.name = 'hw6'
+include 'client'
+include 'server'
+

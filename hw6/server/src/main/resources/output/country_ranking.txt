@@ -1,0 +1,5 @@
+country: c3 - score: 4076
+country: c5 - score: 3723
+country: c2 - score: 3712
+country: c4 - score: 3570
+country: c1 - score: 3236
